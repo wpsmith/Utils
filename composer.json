@@ -1,0 +1,29 @@
+{
+  "name": "wpsmith/utils",
+  "description": "PHP Utility Functions/Helpers.",
+  "keywords": [
+    "utils"
+  ],
+  "homepage": "https://github.com/wpsmith/Utils",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Travis Smith",
+      "email": "t@wpsmith.net",
+      "homepage": "https://wpsmith.net/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/wpsmith/Utils/issues"
+  },
+  "require": {
+    "php": ">=5.6.0",
+    "wpsmith/singleton": "^1.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "WPS\\Core\\": "src/"
+    }
+  }
+}
