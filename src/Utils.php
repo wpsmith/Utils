@@ -11,7 +11,7 @@
  * @category   WPS\Core\Utils
  * @package    WPS\Core\Utils
  * @author     Travis Smith <t@wpsmith.net>
- * @copyright  2015-2018 Travis Smith
+ * @copyright  2015-2019 Travis Smith
  * @license    http://opensource.org/licenses/gpl-2.0.php GNU Public License v2
  * @link       https://github.com/wpsmith/WPS
  * @since      0.1.0

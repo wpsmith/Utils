@@ -23,7 +23,8 @@
   },
   "autoload": {
     "psr-4": {
-      "WPS\\Core\\": "src/"
+      "WPS\\Core\\": "src/",
+      "WPS\\Core\\Utils\\": "src/"
     }
   }
 }
